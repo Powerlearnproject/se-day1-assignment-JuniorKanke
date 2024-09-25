@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15572341&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -5,6 +6,9 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Answer: software engineering applies engineering principles methods and tools to develop and maintain high quality software systems
+it deals with design, development,testing and maintenance.
+it plays a crucial role inn the technology by enabling the creation of software application and systems that  power various aspects of modern life
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
