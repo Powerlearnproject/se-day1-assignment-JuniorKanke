@@ -6,6 +6,9 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Answer: software engineering applies engineering principles methods and tools to develop and maintain high quality software systems
+it deals with design, development,testing and maintenance.
+it plays a crucial role inn the technology by enabling the creation of software application and systems that  power various aspects of modern life
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
